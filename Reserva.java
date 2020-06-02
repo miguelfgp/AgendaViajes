@@ -22,7 +22,8 @@ public class Reserva {
   public Reserva() {
   }
 
-  public String mostrarDatos() {
+  @override
+  public String toString() {
   return null;
   }
 
