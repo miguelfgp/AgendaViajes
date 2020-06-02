@@ -9,10 +9,6 @@ public class Reserva {
    * @element-type Cliente
    */
   public Vector  myCliente;
-    public Vector  myViaje;
-    public Vector  myViaje;
-    public Vector  myViaje;
-    public Vector  myViaje;
     /**
    * 
    * @element-type Viaje
@@ -22,7 +18,7 @@ public class Reserva {
   public Reserva() {
   }
 
-  @override
+  @Override
   public String toString() {
   return null;
   }

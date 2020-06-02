@@ -5,8 +5,9 @@ public class Empleado extends Persona {
   public Empleado() {
   }
 
-  @override
+  @Override
   public String toString() {
+      return null;
   }
 
   public void gestionarReserva() {

@@ -9,16 +9,11 @@ public class Viaje {
   private String destino;
 
     public Vector  myReserva;
-    public Vector  myReserva;
-    public Vector  myReserva;
-    public Vector  myReserva;
-    public Reserva myReserva;
 
   public Viaje() {
-  return null;
   }
 
-  @override
+  @Override
   public String toString() {
   return null;
   }
