@@ -8,8 +8,9 @@ public class Persona {
 
   public Persona() {
   }
-
-  public String mostrarDatos() {
+  
+  @override
+  public String toString() {
   return null;
   }
 
