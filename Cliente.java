@@ -9,7 +9,8 @@ public class Cliente extends Persona {
   public Cliente() {
   }
 
-  public String mostrarDatos() {
+  @override
+  public String toString() {
   return null;
   }
 
