@@ -18,7 +18,8 @@ public class Viaje {
   return null;
   }
 
-  public String mostrarDatos() {
+  @override
+  public String toString() {
   return null;
   }
 
